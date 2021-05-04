@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Impostor Syndrome
 
-You can use the [editor on GitHub](https://github.com/jonesmo/blog2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I just finished my first day with the title Software Engineer after ten years of piecing together work as a musician-plus-day-jobs, doing a data science bootcamp, and seven months of job searching while mostly unemployed.  I say "the title" because I'm not actually a software engineer.  I have some coding experience (Python mostly), but I've never worked in a technical capacity for pay.  A company took a chance on me and I'm grateful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm also confused.  I've experienced a polar mix of privilege and not-privilege in my work life.  I graduated with a physics degree from a well-regarded public university (privilege) into the worst of the Great Recession (un-privilege); I've managed to put together enough to live and still done what I love (privilege), but just barely and not with health insurance (un-privilege).  Despite applying for hundreds of full-time jobs between ages 23 and 32, I've only ever been offered two.  I've lived in some pretty questionable housing situations and worked three jobs at times.  And suddenly I'm a well-paid engineer.  I'm almost angry about it.  It took so much more skill to manage before; it paid so much less.
 
-### Markdown
+I started the day half expecting the company to fire me within a few hours, after they figured out I'm not a software engineer.  They didn't.  Everyone was nice and guided me.  The company bought lunch.  The workday ended casually at 4:30, and as I commuted home from the West Loop, I realized that I'm now one of Those People instead of the Lyft driver taking Those People home. I'd quietly joined a club.  The Club where your job gives you a new MacBook and health insurance and buys you lunch so you don't have to make it, and where your coworkers own homes and/or travel and/or raise children comfortably.  It's profoundly weird.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Where Is This Going
 
-```markdown
-Syntax highlighted code block
+Since I'm now a "woman in STEM" lol I've been thinking of ways I can encourage more folks to feel confident in that route.  And since I have an interest in and knowledge of machine learning and AI, I thought I'd start sharing basics in the hopes that it demystifies AI a little.  I used to think electronics and coding and AI are these hyper-specialized, difficult fields to enter.  They're not.  They're accessible with a little application, some math knowledge, and, mostly, confidence.  And if you happen to lack confidence, start with the learning, and soon you'll see how achievable it is to do real, original work in tech.
 
-# Header 1
-## Header 2
-### Header 3
+### It's All Just Vocabulary
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jonesmo/blog2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Today I heard coworkers say: "C#," "uncensored volatility," "parking lot," "pom," "ClickUp," and "global stand."  I did not know what any of those meant.  Now I do. It turns out they are all relatively simple concepts, even if it will take a little bit of time to work with them.  My takeaway lesson from the first day is, tech is just a pile of vocabulary, and pretending to have the confidence to plow through it is almost as good as actually having the confidence.
