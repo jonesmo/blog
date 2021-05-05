@@ -1,0 +1,5 @@
+## A Strategy
+
+To deal with all the new tech vocabulary, I've developed a strategy.  I keep a notebook page each day with three sections titled Learn, Schedule, and Project.  Every time I hear someone mention a concept or a technology I don't know about, I make a bullet point in the Learn section.  At some point during the day, I Google it.  If it's a tool I might have to use soon, I'll put a squiggle to indicate that I should do a tutorial or watch a longer YouTube video about it.  Otherwise I check it off once I've learned what it is.  I know 18 more tech-related vocab words than I did when I started on Monday.  I had to repeat a couple because I forgot them overnight.  It's okay.  Now I have a slightly better idea what my coworkers are talking about (VPC? EC2?), and I can kind of chuckle along when people make jokes.
+
+Btw it's only day three and I'm already growing used to having healthy, fancy lunch brought in by the company every day.  And having a fridge full of the most expensive sparkling water.
